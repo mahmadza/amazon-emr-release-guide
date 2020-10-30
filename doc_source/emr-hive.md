@@ -2,7 +2,7 @@
 
 Hive is an open\-source, data warehouse, and analytic package that runs on top of a Hadoop cluster\. Hive scripts use an SQL\-like language called Hive QL \(query language\) that abstracts programming models and supports typical data warehouse interactions\. Hive enables you to avoid the complexities of writing Tez jobs based on directed acyclic graphs \(DAGs\) or MapReduce programs in a lower level computer language, such as Java\. 
 
-Hive extends the SQL paradigm by including serialization formats\. You can also customize query processing by creating table schema that match your data, without touching the data itself\. While SQL only supports primitive value types, such as dates, numbers, and strings\), Hive table values are structured elements, such as JSON objects, any user\-defined data type, or any function written in Java\. 
+Hive extends the SQL paradigm by including serialization formats\. You can also customize query processing by creating table schema that match your data, without touching the data itself\. While SQL only supports primitive value types, such as dates, numbers, and strings, Hive table values are structured elements, such as JSON objects, any user\-defined data type, or any function written in Java\. 
 
 For more information about Hive, see [http://hive\.apache\.org/](http://hive.apache.org/)\.
 
